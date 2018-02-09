@@ -1,7 +1,8 @@
 ! Title: Coin Blocker (ZeroDot1)
 ! Expires: 1825 days
+! https://github.com/ZeroDot1/CoinBlockerLists ~ updated to 2018.02 ~ list_browser.txt
 ! https://malwaretips.com/threads/anyone-using-chromes-flags-to-increase-security-and-or-privacy.72612/page-2
-! https://github.com/ZeroDot1/CoinBlockerLists ~ updated to 2018.02
+! https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser.txt
 
 0aqpqdju.me
 1480876790.rsc.cdn77.org
