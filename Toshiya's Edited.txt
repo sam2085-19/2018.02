@@ -1214,9 +1214,9 @@ facebook.com##._5hn6:has(div a[role="button"][href^="/login/?"])
 ! ---------------------------------
 ! Remove third-party ""social networking"" sites.
 ! facebook == instagram
-||facebook.*^$third-party,important,domain=~instagram.com
-||fbcdn.*^$third-party,important,domain=~facebook.com|~instagram.com
-||fb.com^$third-party,important,domain=~facebook.com|~instagram.com
+||facebook.*^$third-party,important,domain=~instagram.com,~indianexpress.com
+||fbcdn.*^$third-party,important,domain=~facebook.com|~instagram.com,~indianexpress.com
+||fb.com^$third-party,important,domain=~facebook.com|~instagram.com,~indianexpress.com
 ||pinterest.com^$third-party,important
 ||instagram.com^$third-party,important,domain=~facebook.com
 ||tumblr.com^$third-party,important,domain=~media.tumblr.com
