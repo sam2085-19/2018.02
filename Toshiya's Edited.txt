@@ -27,6 +27,9 @@
 ! --------------------------------------------------------------------------- !
 ! ########################################################################### !
 ! ##################################-GENERAL-################################ !
+! 19:57, 12-Apr-2018
+! Req @ http://api.solvemedia.com/papi/challenge.script?k=eBFQyVa789U2j41FNZJlEt8BZ1s9.FGl
+! ||solvemedia.com$important
 !
 ! List of general malicious and tracking domains.
 !
@@ -62,7 +65,6 @@
 ||quantserve.com$important
 ||richdadregistrations.com$important
 ||skimresources.com$important
-||solvemedia.com$important
 ||track282938.com$important
 ||vistax64.com$important
 ||vskart.in$important
