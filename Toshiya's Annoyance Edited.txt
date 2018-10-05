@@ -111,7 +111,7 @@ myanimelist.net##.cover-block
 
 ||abs.twimg.com/k/en/5.pages_who_to_follow.en.$script
 
-imgur.com###side-gallery
+! imgur.com###side-gallery
 imgur.com###cta-container
 imgur.com##.animation-finished.animate.fixed.post-header
 ||imgur.com/gallery/hot$important
