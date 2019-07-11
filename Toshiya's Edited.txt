@@ -1672,9 +1672,9 @@ fingerprint.js$important
 ! --------------------------------------------------------------------------- !
 ! Maleware/Junkware distribution sites
 ! Always download softwares from the actual site/repository of the developer.
+! ||filehippo.com$important
 !
 ||tucows.com$important
-||filehippo.com$important
 ||download.com$important
 ||cnet.com$third-party,important
 ||download.cnet.com$important
