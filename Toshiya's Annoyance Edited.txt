@@ -306,9 +306,9 @@ qualaroo_blocking_js$script,domain=wikia.com,important
 ||dr.tl^
 ||bit.do^
 ||taveo.net^
-||bit.ly^
-||embed.ly^
-||sh.st^
+! ||bit.ly^
+! ||embed.ly^
+! ||sh.st^
 !
 !#############################################################################!
 !################################### END #####################################!
