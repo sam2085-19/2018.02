@@ -1,9 +1,6 @@
-[Adblock Plus 2.0]
-! Title: Alexa (Top 500)
-! Version: 1.0
+! Title: Alexa - Top 500
+! Date: 2019-07-25
 ! Expires: 999 days
-
-! alexa top 500 ads
 ! https://malwaretips.com/threads/for-those-disappointed-in-ublock-ending-second-in-large-scale-adblocker-study.73353/
 
 ! Redirect tracking and tagging services
