@@ -248,7 +248,6 @@
 ||exponential.com$important
 ||wodizapt.com$important
 ||intercom.io$important
-||hwcdn.net$important
 ||adzerk.net$important
 ||fonderredd.info$important
 ||educing.info$important
