@@ -1217,11 +1217,11 @@ facebook.com##._5hn6:has(div a[role="button"][href^="/login/?"])
 ! facebook == instagram
 ! breaks instagram Img Download - behind-the-scene-api | 19:04, 22-May-2019
 ! ||fbcdn.*^$third-party,domain=~facebook.com|~instagram.com|~indianexpress.com|~fbcdn.net
+! ||tumblr.com^$third-party,important,domain=~media.tumblr.com
 ||facebook.*^$third-party,important,domain=~instagram.com|~indianexpress.com|~fbcdn.net
 ||fb.com^$third-party,important,domain=~facebook.com|~instagram.com|~indianexpress.com|~fbcdn.net
 ||pinterest.com^$third-party,important
 ||instagram.com^$third-party,important,domain=~facebook.com|~indianexpress.com|~fbcdn.net
-||tumblr.com^$third-party,important,domain=~media.tumblr.com
 ||px.srvcs.tumblr.com/impixu?$important
 ||tumblr.com/services/cslog$important
 ||vk.com^$third-party,important
