@@ -1,7 +1,7 @@
 ﻿! Title: Toshiya's Filter List - Annoyance Edited
 ! Author: Toshiya
 ! Date: 2018-02-22
-! Expires: 7 days
+! Expires: 3000 days
 ! Requirement: Patience
 ! Requirement: "Toshiya's Filter List - Experimental"
 ! Requirement: uBlock Origin 1.15.3+
