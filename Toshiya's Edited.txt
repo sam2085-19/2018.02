@@ -1,7 +1,7 @@
 ﻿! Title: Toshiya's Filter List - Edited
 ! Author: Toshiya / Sam
 ! Date: 2018-02-07
-! Expires: 1825 days (update frequency)
+! Expires: 3000 days (update frequency)
 ! Homepage: https://github.com/toshiya44/myAssets
 ! Requirement: uBlock Origin 1.15.3+
 ! Recommended: Firefox  59+ (Dev)
