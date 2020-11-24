@@ -31,8 +31,12 @@
 ! Req @ http://api.solvemedia.com/papi/challenge.script?k=eBFQyVa789U2j41FNZJlEt8BZ1s9.FGl
 ! ||solvemedia.com$important
 !
+! ||techradar.com$important
+
+!
 ! List of general malicious and tracking domains.
 !
+
 ||dpb3g4kqr8xz.cloudfront.net$important
 ||d5nxst8fruw4z.cloudfront.net$important
 ||d7x5nblzs94me.cloudfront.net$important
@@ -138,7 +142,6 @@
 ||olark.com$important
 ||juicyads.com$important
 ||inspectlet.com$important
-||techradar.com$important
 ||cricbuzz.com$important
 ||gadgetsnow.com$important
 ||azurewebsites.net$important
